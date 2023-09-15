@@ -1,0 +1,55 @@
+body{
+    font-family: 'Lato', sans-serif;
+}
+
+#header{
+    background-color: white;
+}
+
+#header .nav .nav-link.active{
+    color: white;
+    background-color: #F54C1E;
+    font-weight: bold;
+}
+
+#header .nav .nav-link, .navbar-brand, .navbar-brand:hover, .nav-cardapio .nav-link.active:hover{
+    color: black;
+}
+
+
+.btn-contato, .btn-contato:hover {
+    background-color: #F54C1E;
+    color: white;
+}
+
+.custom-text{
+    color: #F54C1E;
+}
+
+.custom-btn{
+    background-color: #F54C1E;
+    color: white;
+    border: none;
+    font-weight: bold;
+}
+
+#sobre-o-restaurante, #nossos-servicos, footer{
+    background-color: #031333;
+    color: white;
+}
+
+#nosso-time{
+    background-color: #dddddd;
+    color: rgb(0, 0, 0);
+}
+
+footer ul li{
+    display: inline;
+    list-style: none
+}
+
+footer ul li a{
+    text-decoration: none;
+}
+
+
